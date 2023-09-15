@@ -1,2 +1,2 @@
 # Python
- Python Codes
+ Python sudoku solver
